@@ -1,42 +1,119 @@
 ---
 date: 2019-08-08T22:42:09.000+00:00
-title: Sunflower Sutra
+title: URSA - Upper-Room UVGI Sterilization for Air & Surfaces
 author: Allen Ginsberg
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 
 ---
-I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
+URSA by Reflectair offers a better approach to upper-room UVC tailored for the COVID era. Our wall-mounted UV light sanitizers are designed to fit seamlessly above your split-system air conditioning unit. This is the perfect position for irradiating pathogens such as viruses and bacteria as this is where the pathogen concentration is typically the highest as exhaled air will be drawn up towards the inlet of this air conditioning system.
 
-Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
+If no AC is available, our optional fan-stack module can be added to the URSA unit to assist the natural convection. URSA units leverage this airflow to better scrub the air of harmful airborne pathogens like SARS-COV-2 (the virus that causes COVID-19) by drawing exhaled airborne particles towards the light emitted by the UVC tube placed at the focal point of a parabolic reflector, collimating the UVC light vertically to produce superior upper room coverage and intensity by minimizing light divergence outside the upper-room zone.
 
-![](/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
+Over 3 times the UV germicidal power of our competitors at half the cost!
 
-The only water on the river mirrored the red sky, sun sank on top of final Frisco peaks, no fish in that stream, no hermit in those mounts, just ourselves rheumy-eyed and hung-over like old bums on the riverbank, tired and wily.
+![URSA upper room UVGI offers over 3 times the germicidal UVC power at half the cost](https://reflectair.com/wp-content/uploads/2021/02/UVC-intensity-heatmap.svg)![URSA upper room UVGI offers over 3 times the germicidal UVC power at half the cost](https://reflectair.com/wp-content/uploads/2021/02/UVC-intensity-heatmap.svg)![URSA upper room UVGI offers over 3 times the germicidal UVC power at half the cost](https://reflectair.com/wp-content/uploads/2021/02/UVC-intensity-heatmap.svg)
 
-Look at the Sunflower, he said, there was a dead gray shadow against the sky, big as a man, sitting dry on top of a pile of ancient sawdust–
+This diagram shows the germicidal intensity (measured in microwatts / cm 2 ) of URSA upper-room UVGI versus a comparable wall mounted unit from a competitor.
 
-\--I rushed up enchanted–it was my first sunflower, memories of Blake–my visions–Harlem
+> **At a distance of 2m, our competitor provides 85 µW/cm², while our 28W model supplies an impressive 270 µW/cm² – more than 3 times the competition!**
 
-# “the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye”
+URSA by Reflectair achieves this through utilizing a reflector with a unique, parabolic design. The curved aluminium reflector focuses the UVGI light beam, ensuring it remains in the safe upper room area without the need for power-sapping louvres.
 
-and Hells of the Eastern rivers, bridges clanking Joes greasy Sandwiches, dead baby carriages, black treadless tires forgotten and unretreaded, the poem of the riverbank, condoms & pots, steel knives, nothing stainless, only the dank muck and the razor-sharp artifacts passing into the past–
+100280315400700Wavelengths (nm)UVVisible lightInfraredUVCUVBUVACEILINGFLOORUVC IRRADIATION ZONE
 
-and the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye–
+### Superior optical performance
 
-corolla of bleary spikes pushed down and broken like a battered crown, seeds fallen out of its face, soon-to-be-toothless mouth of sunny air, sunrays obliterated on its hairy head like a dried wire spiderweb,
+Unlike our competitors' models, URSA's parabolic curved reflector focuses light emitted by the UVC tube, meaning no power-sapping louvers are needed to ensure the UVGI beam remains safely in the upper-room zone.
 
-leaves stuck out like arms out of the stem, gestures from the sawdust root, broke pieces of plaster fallen out of the black twigs, a dead fly in its ear,
+100280315400700Wavelengths (nm)UVVisible lightInfraredUVCUVBUVACEILINGFLOORUVC IRRADIATION ZONE
 
-Unholy battered old thing you were, my sunflower O my soul, I loved you then!
+### Utilizes convection created by AC
 
-![](/content/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg)
+By positioning the wall-mounted UV air scrubber unit directly above your split-system air-conditioner (or opting for our fan-stack unit when no AC is available), the URSA system takes advantage of the convection created (cooler treated air is pushed downwards, warmer exhaled / contaminated air rises upwards) to ensure optimal sterilization.
 
-The grime was no man’s grime but death and human locomotives,
+100280315400700Wavelengths (nm)UVVisible lightInfraredUVCUVBUVACEILINGFLOORUVC IRRADIATION ZONE
 
-all that dress of dust, that veil of darkened railroad skin, that smog of cheek, that eyelid of black mis’ry, that sooty hand or phallus or protuberance of artificial worse-than-dirt–industrial–modern–all that civilization spotting your crazy golden crown–
+### Cost-effective
 
-and those blear thoughts of death and dusty loveless eyes and ends and withered roots below, in the home-pile of sand and sawdust, rubber dollar bills, skin of machinery, the guts and innards of the weeping coughing car, the empty lonely tincans with their rusty tongues alack, what more could I name, the smoked ashes of some cock cigar, the cunts of wheelbarrows and the milky breasts of cars, wornout asses out of chairs & sphincters of dynamos–all these
+URSA's precision engineered design and minimalist approach guarantees maximum upper-room UVGI efficiency at the lowest possible price. Enjoy all the benefits of a state-of-the-art UVC air purifying system at a price-point that makes it accessible for all.
 
-entangled in your mummied roots–and you standing before me in the sunset, all your glory in your form!
+Giving upper room UVGI all-areas access
 
-A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
+In the past, given its high cost and the niche nature of the industry, upper-room UVGI lighting fixtures were mainly found in hospital environments, particularly in operating theaters. As with many areas, COVID has changed this. As medical experts play catch up with ever-evolving evidence on the critical role of aerosolized spread of SARS-COV-2, public and private sector organizations are increasingly seeking out UV light disinfection options to bolster their COVID-safe plans. URSA by Reflectair is democratizing the upper-air UVGI industry through its low-cost and flexible solutions. Our simple yet effective units are lightweight, compact and super-simple to install. We emphasize affordability and efficiency while also prioritizing public safety through our smart design as well as practical measures, such as all units shipping with easy to use UV dosimeter cards that can be placed in the room to ensure no potentially harmful UV radiation is present in areas of human exposure.
+
+The end result is a safe, effective and accessible product that you can confidently deploy within your building or facility. URSA upper-room UVGI is perfect for:
+
+* Schools and universities
+* Doctors, dentists and medical waiting rooms
+* Offices and co-working spaces
+* Gyms and locker rooms
+* Prisons and homeless shelters
+* Elevators and cable cars (smaller versions available)
+
+### Interested in finding out more?
+
+We are looking for distributors around the globe to represent our product. If you want to get on board with this exciting innovation with endless potential for growth please fill out the form below! End-user enquiries are also welcome.
+
+<FORM>
+
+What is upper-room UVGI & why it is an essential tool for fighting COVID-19
+
+Ultraviolet Germicidal Irradiation, or UVGI, involves using special light bulbs or tubes which emit light at a specific band of the ultraviolet light spectrum, known as UVC. These lights have long-been known to be germicidal, and were first used in the 1930s to combat the spread of tuberculosis. Upper-room UVGI, as the name suggests, involves deploying these lights near the ceiling of rooms, either mounted high on the wall or centrally suspended from the ceiling.
+
+Provided there is adequate circulation of the air, this system cleans air exhaled by room occupants (potentially carrying aerosolized viruses and other pathogens) as it rises up into the upper-room zone, before entering the inlet of the room’s air handling unit (split-system AC, ducted HVAC or otherwise).
+
+![upper-room UVC combined with effective ventilation ensures exhaled air is sterilized before being recirculated](https://reflectair.com/wp-content/uploads/2021/01/Upper-room-UVC-with-good-ventilation.png =600x400)**Wall-mount upper-room UVC + good ventilation**
+
+### Benefits of upper-room UVC
+
+### Lowest cost per performance
+
+Significantly cheaper than alternative s capable of providing a 99%+ viral kill rate (ie HEPA retrofit)
+
+### Low maintenance
+
+All that's required is a change of the bulb (15,000+ hours) and light dusting
+
+### Easy installation
+
+As standalone units they only need to be fixed in place, connected to power and turned on
+
+### Quiet operation
+
+As an optical mechanism, adds little to no noise pollution
+
+### No pressure drop
+
+Unlike HEPA, upper-rom UVGI does not affect HVAC systems performance
+
+### Appropriate for smaller spaces
+
+Viable smaller rooms like hotels, bathrooms, even elevators & vehicles!
+
+![UVC light is found between 100-280nm on the light spectrum](https://reflectair.com/wp-content/uploads/2021/01/UVC-Spectrum.png =600x200)**Ultraviolet (UV) light is invisible to humans and is sub-divided into UVA, UVB and UVC. UVC is found within the 100-280 nm range, with most germicidal bulbs emitting at 254 nm.  
+  
+At this frequency, UVC light has been proven to break down the DNA and RNA of micro-organisms, meaning they cannot replicate and cause diseases to spread.**
+
+Bodies like the Centers for Disease Control and Prevention (CDC) and the American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) have [recognized the dangers of increased risk of transmission](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html) of viruses like Coronavirus posed by crowded indoor environments, especially when ventilation is poor. [ASHRAE recommends the use upper-room UVC](https://www.ashrae.org/file%20library/technical%20resources/ashrae%20journal/2020journaldocuments/72-74_ieq_schoen.pdf) sterilization in high-density spaces as an effective tool available to businesses and other organizations as they seek to maintain operations while also protecting their staff, students, clientele, and other building occupants.
+
+### Partnering with leading indoor air quality consultants
+
+Reflectair is brought to market in partnership with a market leader in the indoor environmental consulting, HVAC and air purification sector – [**Pure Living**](https://www.purelivingchina.com/commercial) **Indoor Environmental Solutions.** Driven by their mission to help clients create healthier homes and workplaces, they leverage decades of collective experience and outstanding customer service across their team of building engineers, HVAC specialists, and environmental consultants.
+
+Safe & Effective
+
+#### No Harmful UVC Exposure To Public
+
+Sharp optical focusing of the light beam ensures no leakage to human level
+
+#### ISO 15858:2016 Compliant
+
+Complies with the regulation related to permissable human exposure to UVC light
+
+#### Certification Of Components
+
+110V / 220V ballast is CE + UL certified
+
+![](https://reflectair.com/wp-content/uploads/2020/11/safety_1200x800.png =1200x800)
+
+The sharp optical focus achieved by the reflective pane’s parabolic design ensures neglible UVC leakage to areas nearing a person’s head height. Exposed UVC lamps have long been used in the upper areas of rooms (e.g. hospitals) for optimal air sterilization.
