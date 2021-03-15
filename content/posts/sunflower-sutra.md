@@ -1,10 +1,12 @@
 ---
 date: 2019-08-08T22:42:09.000+00:00
 title: URSA - Upper-Room UVGI Sterilization for Air & Surfaces
-author: Allen Ginsberg
-hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+author: Stuart
+hero_image: "/content/images/slider_ursa.png"
 
 ---
+![](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_496,h_744/https://reflectair.com/wp-content/uploads/2020/11/virus.png)
+
 URSA by Reflectair offers a better approach to upper-room UVC tailored for the COVID era. Our wall-mounted UV light sanitizers are designed to fit seamlessly above your split-system air conditioning unit. This is the perfect position for irradiating pathogens such as viruses and bacteria as this is where the pathogen concentration is typically the highest as exhaled air will be drawn up towards the inlet of this air conditioning system.
 
 If no AC is available, our optional fan-stack module can be added to the URSA unit to assist the natural convection. URSA units leverage this airflow to better scrub the air of harmful airborne pathogens like SARS-COV-2 (the virus that causes COVID-19) by drawing exhaled airborne particles towards the light emitted by the UVC tube placed at the focal point of a parabolic reflector, collimating the UVC light vertically to produce superior upper room coverage and intensity by minimizing light divergence outside the upper-room zone.
@@ -90,8 +92,8 @@ Unlike HEPA, upper-rom UVGI does not affect HVAC systems performance
 
 Viable smaller rooms like hotels, bathrooms, even elevators & vehicles!
 
-![UVC light is found between 100-280nm on the light spectrum](https://reflectair.com/wp-content/uploads/2021/01/UVC-Spectrum.png =600x200)**Ultraviolet (UV) light is invisible to humans and is sub-divided into UVA, UVB and UVC. UVC is found within the 100-280 nm range, with most germicidal bulbs emitting at 254 nm.  
-  
+![UVC light is found between 100-280nm on the light spectrum](https://reflectair.com/wp-content/uploads/2021/01/UVC-Spectrum.png =600x200)**Ultraviolet (UV) light is invisible to humans and is sub-divided into UVA, UVB and UVC. UVC is found within the 100-280 nm range, with most germicidal bulbs emitting at 254 nm.
+
 At this frequency, UVC light has been proven to break down the DNA and RNA of micro-organisms, meaning they cannot replicate and cause diseases to spread.**
 
 Bodies like the Centers for Disease Control and Prevention (CDC) and the American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) have [recognized the dangers of increased risk of transmission](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html) of viruses like Coronavirus posed by crowded indoor environments, especially when ventilation is poor. [ASHRAE recommends the use upper-room UVC](https://www.ashrae.org/file%20library/technical%20resources/ashrae%20journal/2020journaldocuments/72-74_ieq_schoen.pdf) sterilization in high-density spaces as an effective tool available to businesses and other organizations as they seek to maintain operations while also protecting their staff, students, clientele, and other building occupants.
